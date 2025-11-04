@@ -23,7 +23,7 @@ repository               : "picodase/picodase.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot_casual.jpg"
+  avatar           : "headshot_casual.png"
   name             : "Joy Menten"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Protein designer and structural enzymologist-in-training"
