@@ -11,7 +11,7 @@ You've landed on my website. Welcome!
 
 About me
 ===
-My name is Joy Menten (she/her) and I like proteins. I enjoy looking at proteins, comprehending how they work, and design them for new functions. 
+My name is Joy Menten (she/her) and I like proteins. I enjoy looking at proteins, comprehending how they work, and designing them for new functions. 
 
 My favorites are the enzymes--those proteinaceous catalysts that *make possible* (nearly) all of the nonspontaneous chemical reactions in the tree of life. They do that using a number of catalytic strategies, referred to by some scholars as the "contributions to enzyme catalysis". They weave together substrates using physical forces, hold them together until they react, convert thermal energy into directional motion, and even use tools (cofactors) for particularly difficult reactions. Pretty cool, right? I think so too!
 
