@@ -1,5 +1,5 @@
 ---
-title: "Biochemistry Undergraduate Reading Program"
+title: "Biochemistry Undergraduate Reading Program (BURP)"
 collection: teaching
 type: "Undergraduate Extracurricular"
 permalink: /teaching/202x-burp-teaching-1
@@ -8,6 +8,4 @@ date: 2023-01-01
 location: "Seattle, WA"
 ---
 
-I was a graduate student TA for Biochemistry II under Profs. Dana Miller and Liangcai Gu. Our text was the Lehninger "Principles of Biochemistry" by Nelson and Cox. I took notes during lecture, prepared explanatory slides each week, and held twice-weekly recitation sections for students. I worked closely with the teaching staff, synchronizing during weekly instructional meetings, and when grading course exams.
-
-In addition I elected to deliver one 50-minute lecture to the class, after seeing a fellow TA do the same. I lectured on the translation apparatus; my slides are included (here)[/files/translation.odt].
+BURP is a quarter-long extracurricular study program for undergraduates interested in exploring the scientific literature. Undergraduates are paired with a mentor, and the two read papers together over the quarter, culminating in an optional symposium around Finals week. Since its inception, BURP has served over 100 undergraduates and 50 mentors in the UW Biochem community. Read about BURP in UW Biochem's [January 2024 Newsletter](https://sites.uw.edu/biochemistry/january-2024-newsletter/new-undergraduate-initiatives-launched/).
