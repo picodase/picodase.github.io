@@ -27,7 +27,7 @@ Since high school I've been learning how to solve and apply enzyme design toward
 My approach to implementing enzyme-based solutions to these challenges looks like this:
 1. Identify and optimize individual single-reaction, naturally-derived catalytic domains across the tree of life
 2. Design new catalytic domains using modern DL methods (theozyme search with DFT, RFDiffusion2/3, and ProteinMPNN)
-3. Stitch together and program *de novo* enzyme synthases from this domain library (inspired by nature's polyketide synthases and non-ribosomal peptide synthases)
+3. Stitch together and program *de novo* enzyme synthases from this domain library (inspired by nature's [polyketide synthases](https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202300386) and non-ribosomal peptide synthases)
 4. Test designs experimentally, then design bioreactors fit-to-purpose
 
 I approach computational enzyme modeling using a few methods, especially: deep learning-based protein modeling and design, molecular dynamics simulation, and electronic structure methods such as DFT. I worked on RoseTTAFold-allatom and RF3's `modelforge` for three years in grad school, where I developed novel DL-based modules for automated refinement of protein structures into electron density maps. I'm trying to work other forms of publically-available biophysical data into these DL networks, such as: NMR chemical shifts, high-res XRD maps, and SAXS volumes.
