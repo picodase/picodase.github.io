@@ -30,5 +30,6 @@ I approach computational enzyme modeling using a few methods, especially: deep l
 What I'm reading
 ===
 - Richard Martin, 2017 - Electronic structure: basic theory and practical methods: Helps me build a rigorous understanding of modern quantum simulation, e.g. for theozyme generation and active site analysis)
-- Perry Frey & Adrian Hegeman, 2007 - Enzymatic Reaction Mechanisms: Ultimately, the best enzymes were made by Nature. How do natural enzymes function? What can we learn from them?
+- Perry Frey & Adrian Hegeman, 2007 - Enzymatic Reaction Mechanisms: Ultimately, the best enzymes were made by nature. How do natural enzymes function? What can we learn from them?
 - Silbey & Bawendi, 2004 - Physical Chemistry: Finishing up this tome from P-chem in undergrad.
+- Shriver, Atkins, & Langford, 1990 - Inorganic Chemistry: I didn't get a chance to take inorganic chem in graduate school.
