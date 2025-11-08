@@ -11,35 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Left a Ph.D in Biochemistry, University of Washington, 2025
+* H.B.S. in Biochemistry and Biophysics, Oregon State University, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022-2025: Research Assistant 
+  * Institution: University of Washington, Institute for Protein Design (IPD)
+  * Project: Automated refinement of asymmetric protein domains into single-particle cryo-EM maps
+  * Supervisor: Prof. Frank DiMaio
   
+* 2020-2021: Research Assistant 
+  * Institution: Oregon State University
+  * Project: A taxonomy of computational biomolecular features
+  * Supervisor: Prof. Victor Hsu
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Spatial deep learning
+  * SE(3)-invariant models
+  * Diffusion
+  * Autoencoders
+* Representation design
+* Protein structure modeling
+* RoseTTAFold3 (modelforge)
 
 Publications
 ======
@@ -61,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-created and co-administered the Biochemistry Undergraduate Reading Program
